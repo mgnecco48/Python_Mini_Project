@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Local OS files
+.DS_Store
+
+# SSH server host keys
+**/ssh_server/.ssh/
+**/.ssh/
+*.pem
+*.key
