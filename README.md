@@ -28,3 +28,15 @@ Python_Mini_Project/
 │       └── main.go
 └── README.md
 ```
+
+## Trying out the games
+
+The three games are accesible to play from any terminal, by running:
+
+```bash
+ssh -p 23234 terminal.martingneccoh.io # For tic tac toe
+ssh -p 23235 terminal.martingneccoh.io # For hangman v1
+ssh -p 23236 terminal.martingneccoh.io # For hangman v2
+
+```
+
