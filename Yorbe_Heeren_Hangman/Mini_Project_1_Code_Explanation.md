@@ -1,7 +1,7 @@
 # Mini Project 1: Code Explanation
 
 **PGR211 Advanced Programming for Data Science**
-Word Guessing Game — mandatory coursework requirement, Week 38
+Word Guessing Game — mandatory coursework requirement
 
 ---
 
@@ -172,22 +172,7 @@ or pressing Ctrl-C produces a short message instead of a traceback.
 - Guessing after the round has ended raises rather than silently doing nothing.
 - A blank player name falls back to a default.
 
-## 8. Testing
-
-The suite contains 37 tests using only `unittest` from the standard library. 
-It covers word validation, all three concrete sources, masking, every guess
-outcome, the win and lose transitions, the encapsulation guarantees, and the
-console loop itself via a scripted input helper.
-
-Run the tests from the project directory:
-
-```
-python -m unittest discover -v
-```
-
-Or run the last cell of the notebook, which executes the same suite in place.
-
-## 9. Running the game
+## 8. Running the game
 
 As a script:
 
