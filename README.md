@@ -7,13 +7,14 @@ Each directory contains its own README, with a more detailed description of the 
 ## File structure
 
 ```text
-mini_project/
+Python_Mini_Project/
+├── .gitignore
 ├── Arnout_Opfergelt_Hangman/       # Hangman implementation
+│   ├── README.md
 │   └── word_guessing_game.py
 ├── Yorbe_Heeren_Hangman/           # Hangman implementation
 │   ├── Mini_Project_1_Code_Explanation.md
 │   ├── Mini_Project_1.ipynb
-│   ├── test_word_guessing_game.py
 │   └── word_guessing_game.py
 ├── tic_tac_toe/                    # Tic-Tac-Toe implementation
 │   ├── README.md
@@ -22,7 +23,6 @@ mini_project/
 │   ├── pyproject.toml
 │   ├── uv.lock
 │   └── ssh_server/                 # SSH server for remote play
-│       ├── .env
 │       ├── go.mod
 │       ├── go.sum
 │       └── main.go
