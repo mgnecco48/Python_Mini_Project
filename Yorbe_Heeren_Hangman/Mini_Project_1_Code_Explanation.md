@@ -49,13 +49,14 @@ encapsulation.
 - Guessing after the round has ended raises rather than silently doing nothing.
 - A blank player name falls back to a default.
 
-## 5. AI-useage transparency
+## 5. AI Use Disclosure
 
-- AI was used to structure and organize my code, to provide comments, and to 
-  explain how the game covers the learning outcomes.
-- I retain the ownership of the code as the written author, AI was not used to 
-  write the code outright, but used to present the code in a professional manner, 
-  and handle cases where I got stuck or wanted to improve upon my work. 
+- AI was used to help structure and organize the code, add comments, and 
+  explain how the game addresses the learning outcomes.
+- I wrote and remain responsible for the code. AI was used as a supporting tool 
+  to improve code readability, presentation, and quality, as well as to help resolve 
+  problems and explore potential improvements. The implementation and final decisions 
+  remained my responsibility.
 
 ## 6. Running the game
 
